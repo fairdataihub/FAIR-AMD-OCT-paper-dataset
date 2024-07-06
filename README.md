@@ -38,6 +38,6 @@ Use the [GitHub issues](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-datas
 If you use this dataset, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as:
 
 ```bash
-Gim, Nayoon, Ferguson, Alina, Blazes, Marian, Soudarajan, Sanjay, Gasimova, Aydan & Patel, Bhavesh. (2024). Dataset: FAIR AMD OCT Datasets Paper [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468936
+Gim, Nayoon, Ferguson, Alina, Blazes, Marian, Soudarajan, Sanjay, Gasimova, Aydan, Patel, Bhavesh & Lee, Cecilia. (2024). Dataset: FAIR AMD OCT Datasets Paper [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468936
 ```
 
