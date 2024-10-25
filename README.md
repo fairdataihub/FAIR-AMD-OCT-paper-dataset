@@ -2,7 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12669652.svg)](https://doi.org/10.5281/zenodo.12669652)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12669651.svg)](https://doi.org/10.5281/zenodo.12669651)
 
 [contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/FAIR-AMD-OCT-paper-dataset.svg?style=flat-square
 [contributors-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-dataset/graphs/contributors
@@ -35,9 +35,9 @@ This work is licensed under a
 Use the [GitHub issues](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-dataset) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this dataset, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as:
+If you use this dataset, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as (see on Zenodo for citing a specific version of this dataset):
 
 ```bash
-Gim, Nayoon, Ferguson, Alina, Blazes, Marian, Soundarajan, Sanjay, Gasimova, Aydan, Patel, Bhavesh & Lee, Cecilia. (2024). Dataset: FAIR AMD OCT Datasets Paper [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12669652
+Gim, Nayoon, Ferguson, Alina, Blazes, Marian, Soundarajan, Sanjay, Gasimova, Aydan, Patel, Bhavesh & Lee, Cecilia. (2024). Dataset: FAIR AMD OCT Datasets Paper [Data set]. Zenodo. 10.5281/zenodo.12669651
 ```
 
